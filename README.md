@@ -104,14 +104,22 @@ A continuación se resumen algunos de los hallazgos más relevantes del análisi
 
 Los sitios con mayor volumen de auditorías resultaron ser:
 
-- **Pozo San Martín (Neuquén)**
 - **Planta Río Verde (Chubut)**
-- **Estación Norte (Neuquén)**
+- **Pozo San Martín (Neuquén)**
+- **Poza El Trebol (La Pampa)**
+
+![Sitios más auditados](assets/capturas/sitios_mas_auditados.jpg)
 
 **Interpretación:**  
 Sitios operativamente críticos o con historial relevante, que requieren mayor seguimiento.
 
-### 6.2 Auditorías con más hallazgos
+### 6.2 Tipos de auditoría más frecuentes y evolución temporal
+
+![Tipos de auditoría](assets/capturas/tipos_de_auditorias.jpg)
+
+Las auditorías de rutina fueron las mas frecuentes
+
+### 6.3 Auditorías con más hallazgos
 
 Las auditorías realizadas en sitios de tratamiento y bombeo fueron las que presentaron mayor cantidad de hallazgos, indicando:
 
@@ -119,27 +127,56 @@ Las auditorías realizadas en sitios de tratamiento y bombeo fueron las que pres
 - Mayor interacción con sustancias peligrosas
 - Mayor probabilidad de desvíos
 
-### 6.3 Normativas más incumplidas
+![Auditorías con más hallazgos](assets/capturas/auditorias_con_mas_hallazgos.jpg)
 
-Las normas con más hallazgos asociados fueron:
+### 6.4 Distribución por criticidad y tipo de hallazgos
 
-- **Ley 100/2005 - Gestión de Residuos Peligrosos**
-- **Decreto 45/2010 - Emisiones Atmosféricas**
-- **Res. 12/2012 - Efluentes Industriales**
+![Criticidad de hallazgos](assets/capturas/criticidad_de_hallazgos.jpg)
 
-**Interpretación:**  
-Problemas comunes en la industria Oil & Gas y focos típicos de auditoría.
+El análisis de criticidad permite priorizar acciones correctivas según el nivel de riesgo ambiental identificado.
 
-### 6.4 Proporción de hallazgos críticos (criticidad Alta)
-
-Se identificaron sitios donde más del **20%** de los hallazgos son de criticidad **Alta**, lo cual indica un riesgo elevado que requiere priorización en inspecciones y cierre de acciones.
-
-### 6.5 Tiempo de cierre de acciones correctivas
+### 6.5 Tiempo promedio de cierre de acciones correctivas
 
 Los promedios por sitio varían ampliamente:
 
 - Sitios con promedios cercanos a **30-45 días** → buena capacidad operativa
 - Sitios con cierres > **90 días** → backlog o dificultad técnica/administrativa
+
+#### Por sitio:
+![Tiempo de cierre por sitio](assets/capturas/tiempo_cierre_acciones_por_sitio.jpg)
+
+#### Por auditor:
+![Tiempo de cierre por auditor](assets/capturas/tiempo_cierre_acciones_por_auditor.jpg)
+
+---
+
+### 6.6 Normativas más incumplidas
+
+Las normas con más hallazgos asociados fueron:
+
+- **Decreto 45/2010 - Emisiones Atmosféricas**
+- **Res. 12/2012 - Efluentes Industriales**
+
+![Normativas más incumplidas](assets/capturas/normativa_mas_incumplida.jpg)
+
+**Interpretación:**  
+Problemas comunes en la industria Oil & Gas y focos típicos de auditoría.
+
+---
+
+### 6.7 Sitios con mayor proporción de hallazgos críticos
+
+Se identificaron sitios donde más del **20%** de los hallazgos son de criticidad **Alta**, lo cual indica un riesgo elevado que requiere priorización en inspecciones y cierre de acciones.
+
+![Sitios con más hallazgos críticos](assets/capturas/sitios_con_mas_hallazgos.jpg)
+
+---
+
+### 6.8 Tasa de cierre anual de hallazgos
+
+![Tasa de cierre de hallazgos](assets/capturas/tasa_cierre_hallazgos.jpg)
+
+Este indicador permite evaluar la eficiencia del sistema de gestión ambiental en la resolución de no conformidades a lo largo del tiempo.
 
 ## 7. Reproducción del proyecto
 
